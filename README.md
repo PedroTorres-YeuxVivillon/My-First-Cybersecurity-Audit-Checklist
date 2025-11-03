@@ -1,6 +1,6 @@
 # Basic Website Security Audit Checklist
 *Created by: Pedro Torres*  
-*Last Updated: [25/06/2025]*
+*Last Updated: [06/25/2025]*
 
 ## 📋 Introduction
 This is my first attempt at creating a security checklist after studying cybersecurity basics. I'm focusing on common web vulnerabilities I've learned about recently. This checklist helps me systematically review basic website security.
